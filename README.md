@@ -14,11 +14,11 @@ In this project, a static webpage that lacks accessibility is given to be conver
 
 In order to run the application you have some options:
 
-1. Open it [here]()
+1. Open it [here]( https://cpierce94.github.io/Restaurant-Reviews/)
 
 2. Run it localy
 * Download as .zip file or clone this project:
 
     ```
-    $ git clone 
+    $ git clone https://cpierce94.github.io/Restaurant-Reviews/
     ```
