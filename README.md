@@ -20,5 +20,5 @@ In order to run the application you have some options:
 * Download as .zip file or clone this project:
 
     ```
-    $ git clone https://cpierce94.github.io/Restaurant-Reviews/
+    $ git clone https://github.com/Cpierce94/Restaurant-Reviews.git
     ```
